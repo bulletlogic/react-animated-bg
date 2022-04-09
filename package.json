@@ -1,5 +1,5 @@
 {
-  "name": "react-animated-bg",
+  "name": "@bulletlogic/react-animated-bg",
   "version": "1.2.2",
   "description": "Strongly customizable React component helping you make animated background.",
   "main": "build/index.js",
@@ -12,7 +12,7 @@
   "author": "qmixi",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qmixi/react-animated-bg.git"
+    "url": "git@github.com:bulletlogic/react-animated-bg.git"
   },
   "license": "MIT",
   "devDependencies": {
