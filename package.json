@@ -33,8 +33,10 @@
   },
   "dependencies": {
     "prop-types": "^15.8.1",
-    "react": "^16.9.0",
     "styled-components": "^5.3.3"
+  },
+  "peerDependencies": {
+    "react": "^16.14.0 || 17.x || 18.x"
   },
   "keywords": [
     "react",
